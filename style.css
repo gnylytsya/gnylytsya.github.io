@@ -147,3 +147,9 @@ a.comment-edit-link:hover{color:#ff4b33;}.commentlist .children{list-style:none;
 body{
 	
 }
+blockquote{
+	padding: 50px 100px;
+}
+#container{
+	margin: 0 120px;
+}
